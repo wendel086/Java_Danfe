@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>java_danfe</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>damdfe_retrato.jrxml</name>
+			<type>1</type>
+			<location>G:/javaProjects/printDF-e/src/br/com/prodata/reports/damdfe_retrato.jrxml</location>
+		</link>
+		<link>
+			<name>danfe_retrato.jasper</name>
+			<type>1</type>
+			<location>G:/javaProjects/printDF-e/src/br/com/prodata/reports/danfe_retrato.jasper</location>
+		</link>
+	</linkedResources>
+</projectDescription>
